@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top-rated-movies/static/css/main.9d76d24a.chunk.css",
+    "main.js": "/top-rated-movies/static/js/main.4866949a.chunk.js",
+    "main.js.map": "/top-rated-movies/static/js/main.4866949a.chunk.js.map",
+    "runtime-main.js": "/top-rated-movies/static/js/runtime-main.6c495367.js",
+    "runtime-main.js.map": "/top-rated-movies/static/js/runtime-main.6c495367.js.map",
+    "static/js/2.c8855d3b.chunk.js": "/top-rated-movies/static/js/2.c8855d3b.chunk.js",
+    "static/js/2.c8855d3b.chunk.js.map": "/top-rated-movies/static/js/2.c8855d3b.chunk.js.map",
+    "index.html": "/top-rated-movies/index.html",
+    "precache-manifest.937f07c661513e68add892870bd930c8.js": "/top-rated-movies/precache-manifest.937f07c661513e68add892870bd930c8.js",
+    "service-worker.js": "/top-rated-movies/service-worker.js",
+    "static/css/main.9d76d24a.chunk.css.map": "/top-rated-movies/static/css/main.9d76d24a.chunk.css.map",
+    "static/js/2.c8855d3b.chunk.js.LICENSE.txt": "/top-rated-movies/static/js/2.c8855d3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c495367.js",
+    "static/js/2.c8855d3b.chunk.js",
+    "static/css/main.9d76d24a.chunk.css",
+    "static/js/main.4866949a.chunk.js"
+  ]
+}
