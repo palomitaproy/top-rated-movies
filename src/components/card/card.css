@@ -1,9 +1,9 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #f9f7f7;
+  background-color: #393e46;
   border: 1px solid #dbe2ef;
-  color: #112d4e;
+  color: #eeeeee;
   border-radius: 5px;
   padding: 15px;
   cursor: pointer;
@@ -18,4 +18,13 @@
 }
 .img-size {
   height: 300px;
+}
+.card-container p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}  
+.start-color{
+  color: goldenrod!important;
+  padding-right: 10px;
 }
